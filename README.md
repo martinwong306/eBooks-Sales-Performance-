@@ -1,5 +1,5 @@
-# eBooks-Sales-Performance-
-## Kobo eBooks Sales Analysis
+# eBooks-Sales-Performance
+### Kobo eBooks Sales Analysis
 
 
 Build a **Tableau dashboard** presenting monthly sales performance by 
